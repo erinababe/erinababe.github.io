@@ -64,20 +64,20 @@ img{border:0;outline: 0;}
 {padding:0;margin:0;}
 
 #top
-{width:80%;margin:0 auto;height:230px;}
+{width:80%;margin:0 auto;max-height:230px;}
 
 .logo_lg
 {float:left;margin-left:5%;margin-top:20px;}
 
 .logo_sm
-{max-width:300px;min-width: 250px;margin-left:-50px;}
+{max-width:227px;margin-top:20%;}
 
 
 .nav_lg
 {float:right;}
 
 .nav_sm
-{float:right;margin-top:30%;}
+{float:right;margin:30% 0 15% 0;}
 
 .nav_lg li, .nav_sm li
 {margin:7px; list-style: none;}
@@ -126,7 +126,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6e7e9', end
 
 
 #work_sm
-{margin:0 auto;width:400px;padding-bottom: 50px;}
+{margin:0 auto;max-width:75%;padding-bottom: 50px;}
 
 #work_sm .work{
 	margin:0 auto; width:60px; padding-top: 30px; height:100px;
@@ -155,7 +155,7 @@ p.brand{text-transform: uppercase; margin-top:10px; font-size:10px;letter-spacin
     font-style: normal;letter-spacing: 2px; line-height: 18px;font-size:13px;}
 
 #product_sm
-{margin:0 auto;width:370px;padding-bottom: 40px;}
+{margin:0 auto;max-width:75%;padding-bottom: 40px;}
 
 
 
