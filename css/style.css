@@ -48,7 +48,7 @@
 	font-style: normal;
 }
 
-p{  font-family: 'Futura';
+p{  font-family:"Futura";
     font-weight: 500;
     font-style: normal;letter-spacing: 1.5px;text-align: center;padding:15px;}
 
@@ -147,10 +147,10 @@ p.brand{text-transform: uppercase; margin-top:10px; font-size:10px;letter-spacin
 
 #product_lg img{float:right;} img{float:right;}
 
-#product_lg p , #product_sm p {font-family: 'Futura-Normal';
+#product_lg p , #product_sm p {font-family: "Futura-Normal";
     font-style: normal;font-weight:normal;font-size:20px;letter-spacing: 3px;margin:0 -5px 0 0;padding:10px 0 0 0;}
 
-#product_lg li, #product_sm li {text-align: right;     font-family: 'Futura Lt BT';
+#product_lg li, #product_sm li {text-align: right;     font-family: "Futura Lt BT";
     font-weight: 300;
     font-style: normal;letter-spacing: 2px; line-height: 18px;font-size:13px;}
 
@@ -167,17 +167,17 @@ p.brand{text-transform: uppercase; margin-top:10px; font-size:10px;letter-spacin
 
 #portrait img{margin-bottom: 40px;}
 
-p.self{ font-family: 'Futura Lt BT';
+p.self{ font-family: "Futura Lt BT";
   font-weight:bold;
     font-style: normal;font-size: 16px;letter-spacing: 2px; margin-bottom: 40px;}
 
 
 
-p.profile {letter-spacing: 2px; font-family: 'Futura BQ';
+p.profile {letter-spacing: 2px; font-family: "Futura BQ";
 
     font-style: normal; font-size:18px;line-height:10px; margin:0;padding:0;} 
 
-p.des{    font-family: 'Futura Lt BT';
+p.des{    font-family: "Futura Lt BT";
     font-weight: normal;
     font-style: normal;font-size:16px;margin-bottom: 40px;}
 
