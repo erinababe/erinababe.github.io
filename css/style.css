@@ -67,10 +67,10 @@ img{border:0;outline: 0;}
 {width:80%;margin:0 auto;max-height:230px;}
 
 .logo_lg
-{float:left;margin-left:5%;margin-top:20px;}
+{float:left;margin:3% 0 3% 5%;}
 
 .logo_sm
-{max-width:227px;margin-top:20%;}
+{max-width:227px;margin:3% 0 3% 5%;}
 
 
 .nav_lg
@@ -238,3 +238,4 @@ margin:0 auto;
     transition: height 1.2s;
 }
 
+.close{margin:0 auto;width:10%;}
