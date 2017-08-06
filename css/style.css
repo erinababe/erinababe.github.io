@@ -48,6 +48,8 @@
 	font-style: normal;
 }
 
+body{font-family:"Futura-Normal",arial;}
+
 p{  font-family:"Futura";
     font-weight: 500;
     font-style: normal;letter-spacing: 1.5px;text-align: center;padding:15px;}
